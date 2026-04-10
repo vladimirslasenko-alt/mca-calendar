@@ -27,11 +27,10 @@ def parse_mca():
             try:
                 event_date = datetime(int(y), int(m), int(d))
                 event = Event()
-                # Берем всю строку как название
                 event.add('summary', line) 
                 event.add('dtstart', event_date.date())
-                # Добавляем поля для твоих отчетов
-                event.add('description', f'Номер T: ___\nВремя: ___\nИсточник: {url}')
+                # Оставляем только ссылку на источник
+                event.add('description', f'Источник: {url}')
                 cal.add_component(event)
             except ValueError:
                 continue
