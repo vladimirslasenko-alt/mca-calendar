@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MCA Calendar//mca.lv//
+BEGIN:VEVENT
+SUMMARY:Motosezonas atklāšana – 25.04.2026.
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FF Riders – 02.05.2026.
+DTSTART;VALUE=DATE:20260502
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Eagles MC talka- 02.05.2026.
+DTSTART;VALUE=DATE:20260502
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Road’s Knights MC – RUN NUBMER ONE 26 – 02.05.2026.
+DTSTART;VALUE=DATE:20260502
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Souls of Thunders “Ierūcinām Kurzemi” – 02.05.2026.
+DTSTART;VALUE=DATE:20260502
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amber Sisters MCC “sieviešu brauciens” – 09.05.2026.
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XIII MC – Ierūcinām Cēsis – 09.05.2026.
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hermejs MC “DzD” – 23.05.2026.
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vētras Putni MC ”DzD” – 23.05.2026.
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Souls of Thunders – Biker Fest – 13.06.2026.
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOTOPĪTERDĪNA ROGOVKĀ 2026 – 27.06.2026.
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brīvības Gari MC – Moto festivāls –  10.07. – 11.07.2026.
+DTSTART;VALUE=DATE:20260711
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kurland Bike Meet 2026 – 17.07. -19.07.2026.
+DTSTART;VALUE=DATE:20260719
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quercus MK – 18.07.2026.
+DTSTART;VALUE=DATE:20260718
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stuntfighters MC “DzD 10.gadi” – 25.07.2026.
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JAWA klubs – 07.08. – 09.08.2026.
+DTSTART;VALUE=DATE:20260809
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VBO MC “DzD” – 08.08.2026.
+DTSTART;VALUE=DATE:20260808
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nekādi Labie MC “Labdarības brauciens” – 05.09.2026.
+DTSTART;VALUE=DATE:20260905
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VBO MC Poker Run – 12.09.2026.
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zemgaļu Leģions “Sezonas slēgšana” Jelgava – 26.09.2026.
+DTSTART;VALUE=DATE:20260926
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FF Riders “Motorudens”- 03.10.2026.
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Souls of Thunders MCC “Ierūcinām rudeni” – 03.10.2026.
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Номер T: ___\nВремя: ___\nИсточник: https://
+ mca.lv/sezonas-kalendars/
+END:VEVENT
+END:VCALENDAR
