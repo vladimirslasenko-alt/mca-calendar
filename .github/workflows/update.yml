@@ -1,25 +1,38 @@
 name: Update MCA Calendar
+
 on:
   schedule:
     - cron: '0 0 * * 1'
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install requests beautifulsoup4 icalendar
+
       - name: Run scraper
         run: python scraper.py
+
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add mca_events.ics
-          git commit -m "Update calendar" || exit 0
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update calendar data"
+            git pull --rebase origin main
+            git push origin main
+          fi
